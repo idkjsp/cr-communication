@@ -1,0 +1,20 @@
+CR Communication — template HTML / CSS / PHP
+
+Dépose ce dossier dans le répertoire web du Synology (Web Station).
+Ouvre index.html pour choisir une version (V2, V5, V6, V7, V8).
+
+Pour le nom de domaine : fais pointer le site sur le dossier de la version gardée,
+par exemple V2. Ce dossier contient index.html.
+
+Le formulaire est contact.php. Il envoie un e-mail à crcommunication@icloud.com.
+Sur un NAS, PHP doit être activé, et l’envoi d’e-mail (SMTP) configuré dans DSM.
+Rien n’est enregistré dans une base. Pas de cookie.
+
+Fichiers :
+  index.html          le choix des versions
+  css/style.css       toute la mise en page
+  js/site.js          menu, couleurs, défilement
+  contact.php         envoi du message
+  V2/ … V8/           les pages
+  images/             logo et photo
+  fonts/              polices, déjà dans le dossier

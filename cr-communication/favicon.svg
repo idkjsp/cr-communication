@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="CR">
+  <rect width="32" height="32" rx="7" fill="#B0CEAB"/>
+  <text x="10.4" y="21.7" text-anchor="middle" fill="#FFFCF8" font-family="Georgia, 'Palatino Linotype', Palatino, 'Liberation Serif', 'Times New Roman', serif" font-size="15.5" font-weight="500" letter-spacing="-0.7">CR</text>
+  <g transform="translate(24.2 15.9)" fill="#FFFCF8">
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z"/>
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z" transform="rotate(60)"/>
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z" transform="rotate(120)"/>
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z" transform="rotate(180)"/>
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z" transform="rotate(240)"/>
+    <path d="M0-6.1c1.05 0 1.7 1.85 1.7 3.35S1.05-1.15 0-1.15s-1.7-.75-1.7-2.25S-1.05-6.1 0-6.1z" transform="rotate(300)"/>
+    <circle cx="0" cy="0" r="1.85" fill="#FBCFA5"/>
+  </g>
+</svg>
